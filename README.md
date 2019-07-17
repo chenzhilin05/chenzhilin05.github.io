@@ -37,7 +37,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 [陈智林](https://chenzhilin05.github.io)
-
-If you want to embed images, this is how you do it:
-
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
