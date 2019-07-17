@@ -1,4 +1,3 @@
-## 陈智林
 ```markdown
 Syntax highlighted code block
 
